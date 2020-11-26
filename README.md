@@ -1,4 +1,8 @@
-# Nordic nRF5 SDK v15.0.0
+# wolfSSL CryptoCell example
+
+This repository enables the example of wolfSSL for the [nRF52840 CryptoCell](https://github.com/wolfSSL/wolfssl/tree/master/IDE/CRYPTOCELL). Refer to this document to execute the example and use this repository which forks the [original one](https://github.com/tmael/nRF5_SDK).
+
+# Nordic nRF5 SDK v15.2.0
 
 This is **not** an official repository, but provides a mirror of the Nordic nRF5 SDK (nRF5_SDK_15.2.0_9412b96) for projects to have git dependencies.
 
